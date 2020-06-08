@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="input_hint_username">Username</string>
+    <string name="input_hint_password">Password</string>
+</resources>
