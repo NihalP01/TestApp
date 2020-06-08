@@ -13,6 +13,9 @@ class LoginActivity : AppCompatActivity() {
         supportActionBar?.hide()
         create_account.setOnClickListener {
             startActivity(Intent(this, SignupActvity::class.java))
+        user_signIn_btn.setOnClickListener {
+            startActivity(Intent(this, DepartmentActivity::class.java))
+        }
         }
     }
 }

@@ -62,6 +62,6 @@
         android:gravity="center_horizontal"
         android:text="Don't have an account ? Signup now"
         android:textColor="#424242"
-        android:textSize="16sp" />
+        android:textSize="16sp"/>
 
 </RelativeLayout>
