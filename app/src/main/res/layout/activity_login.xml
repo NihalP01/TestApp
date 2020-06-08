@@ -41,6 +41,7 @@
             android:background="@drawable/inputfieldbg"/>
 
         <Button
+            android:id="@+id/user_signIn_btn"
             android:layout_width="match_parent"
             android:layout_height="57dp"
             android:layout_marginTop="20dp"
@@ -51,6 +52,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/create_account"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
